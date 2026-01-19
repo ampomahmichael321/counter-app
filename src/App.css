@@ -26,4 +26,8 @@
   .App{
     background-color: white;
   }
+  .main-content{
+    border:none;
+    box-shadow:none;
+  }
 }
