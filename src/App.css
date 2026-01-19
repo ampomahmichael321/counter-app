@@ -22,3 +22,8 @@
   padding: 2em;
   align-items: center;
 }
+@media(max-width: 600px){
+  .App{
+    background-color: white;
+  }
+}
