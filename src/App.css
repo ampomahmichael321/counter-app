@@ -1,0 +1,23 @@
+.App,
+.main-content {
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 3em;
+}
+.App {
+  height: 100dvh;
+  width: 100vw;
+  background-color: #dddbdbe0;
+}
+.main-content {
+  border: solid 1px #ccc;
+  background-color: rgba(255, 255, 255, 0.896);
+  min-height: 50dvh;
+  min-width: 35vw;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 2em;
+}
